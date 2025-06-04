@@ -1,6 +1,7 @@
 package com.mycompany.integrador;
 
 public class SergioRoman {
+
     String nombre;
     int edad;
 
@@ -16,4 +17,5 @@ public class SergioRoman {
     public int getEdad() {
         return edad;
     }
+
 }
